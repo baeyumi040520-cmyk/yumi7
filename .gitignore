@@ -34,3 +34,4 @@ wheels/
 
 # Config
 mcp_config.json
+eda/seven_trend/.env
